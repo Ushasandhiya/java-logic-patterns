@@ -25,4 +25,14 @@ Practice Java using logic and problem-solving patterns.
 ### Two Pointer Pattern
 - ReverseArray.java
 
+### Track Two Values Pattern
+- SecondLargest.java
+- SecondSmallest.java
+
+### Assume True → Prove False
+- IsSorted.java
+
+### Mark Visited Elements (Revisit Later)
+- FrequencyOfElements.java
+
 Started on: 20 Dec 2025
