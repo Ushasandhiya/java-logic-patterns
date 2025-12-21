@@ -7,8 +7,6 @@ Practice Java using logic and problem-solving patterns.
 - 01_Arrays
 - 02_Strings
 - 03_NumberLogic
-- 04_Searching
-- 05_Sorting
 
 ## Pattern Index
 
