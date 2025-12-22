@@ -10,6 +10,7 @@ public class PalindromeIgnoreCase {
         System.out.print("Enter a string: ");
         String str = sc.nextLine();
         sc.close();
+        
 
         // Step 1: convert to lowercase (ignore case)
         str = str.toLowerCase();

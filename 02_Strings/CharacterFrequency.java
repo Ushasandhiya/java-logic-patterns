@@ -10,6 +10,7 @@ public class CharacterFrequency {
         String str = sc.nextLine();
         sc.close();
 
+        
         // Convert to lowercase to avoid case issues
         str = str.toLowerCase();
 

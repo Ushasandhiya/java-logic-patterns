@@ -11,6 +11,7 @@ public class PalindromeIgnoreSpaces {
         String str = sc.nextLine();
         sc.close();
 
+        
         // Ignore case
         str = str.toLowerCase();
 

@@ -11,6 +11,7 @@ public class PalindromeString {
         String str = sc.nextLine();
         sc.close();
 
+        
         // Convert string to char array
         char[] arr = str.toCharArray();
 
