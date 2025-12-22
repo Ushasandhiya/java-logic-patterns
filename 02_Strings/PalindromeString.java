@@ -9,6 +9,7 @@ public class PalindromeString {
         // Take string input from user
         System.out.print("Enter a string: ");
         String str = sc.nextLine();
+        sc.close();
 
         // Convert string to char array
         char[] arr = str.toCharArray();

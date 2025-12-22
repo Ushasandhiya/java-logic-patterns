@@ -8,6 +8,7 @@ public class CharacterFrequency {
 
         System.out.print("Enter a string: ");
         String str = sc.nextLine();
+        sc.close();
 
         // Convert to lowercase to avoid case issues
         str = str.toLowerCase();

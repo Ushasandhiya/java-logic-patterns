@@ -9,6 +9,7 @@ public class PalindromeIgnoreSpaces {
         // Take input
         System.out.print("Enter a string: ");
         String str = sc.nextLine();
+        sc.close();
 
         // Ignore case
         str = str.toLowerCase();
