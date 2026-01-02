@@ -1,7 +1,6 @@
 public class MaxOfTwoFunction {
 
     // This method takes two numbers and RETURNS the larger one
-   
     int findMax(int num1, int num2) {
 
         // Compare the two numbers

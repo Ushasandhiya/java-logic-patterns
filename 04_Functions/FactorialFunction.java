@@ -22,7 +22,6 @@ public class FactorialFunction {
 
         System.out.print("Enter a number: ");
         int n = sc.nextInt();
-        
         sc.close();
 
         // Create object to call non-static method
