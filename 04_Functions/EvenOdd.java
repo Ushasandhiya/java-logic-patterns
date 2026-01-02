@@ -20,6 +20,7 @@ public class EvenOdd {
         // Take input from user
         System.out.print("Enter a number: ");
         int n = sc.nextInt();
+        
         sc.close();
 
         // Call the function

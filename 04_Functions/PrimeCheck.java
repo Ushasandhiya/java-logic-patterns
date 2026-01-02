@@ -27,6 +27,7 @@ public class PrimeCheck {
         // Take input
         System.out.print("Enter a number: ");
         int n = sc.nextInt();
+        
         sc.close();
 
         // Call function
