@@ -1,92 +1,141 @@
-# Java Logic Practice 🚀
-
-## 📌 Goal
-Build **strong Java fundamentals** through **logic-based problem solving**,  
-so that concepts stay solid for **backend development & placements**.
-
-This repo focuses on:
-- Thinking in patterns
-- Writing clean Java code
-- Revising daily without forgetting basics
+Each folder groups problems by **concept + logic pattern**,  
+not just random topic names.
 
 ---
 
-## 🗓️ Timeline
-
-- **Started:** 20 December 2025  
-- **Current Phase:** Java Basics + Logic Practice  
-- **Target:** Complete Java fundamentals before **12 Jan 2026**
+## 🧠 Logic Patterns & Concepts Practiced
 
 ---
 
-## 📁 Folder Structure
+## 01️⃣ Arrays
 
-01_Arrays  
-02_Strings  
-03_NumberLogic  
-04_Searching  
-05_Sorting  
+### 🔹 Patterns Used
+- Assume → Compare → Update
+- Accumulator Pattern
+- Condition Counting
+- Two Pointer Pattern
+- Traversal Check
+- For-each Loop Traversal
 
-Each folder contains problems grouped by **logic pattern**, not just topic names.
-
----
-
-## 🧠 Logic Patterns Practiced
-
-### 1️⃣ Assume → Compare → Update
-Used when finding extreme values.
+### 🔹 Programs
 - `MaxElement.java`
 - `MinElement.java`
 - `SecondLargest.java`
 - `SecondSmallest.java`
-
----
-
-### 2️⃣ Accumulator Pattern
-Used when values are continuously added/updated.
 - `SumOfArray.java`
-- Running Sum (LeetCode)
-
----
-
-### 3️⃣ Condition Counting
-Used to count elements based on a condition.
 - `EvenOddCount.java`
-- Frequency problems (intro)
-
----
-
-### 4️⃣ Two Pointer Pattern
-Used for reverse & palindrome logic.
 - `ReverseArray.java`
-- `PalindromeIgnoreCase.java`
+- `IsSorted.java`
+- `FrequencyOfElements.java`
+- `ForEachLoopDemo.java`
 
 ---
 
-### 5️⃣ Loop + Comparison
-Used to verify order or structure.
-- Check if array is sorted
-- Minimum / Maximum traversal
+## 02️⃣ Strings
+
+### 🔹 Patterns Used
+- Two Pointer
+- Reverse Traversal
+- Character Frequency
+- Normalization (case & spaces)
+
+### 🔹 Programs
+- `ReverseString.java`
+- `PalindromeString.java`
+- `PalindromeIgnoreCase.java`
+- `PalindromeIgnoreSpaces.java`
+- `CharacterFrequency.java`
+
+---
+
+## 03️⃣ Number Logic
+
+### 🔹 Concepts
+- Modulus logic
+- Loop-based validation
+- Conditional checks
+
+*(Folder prepared for expansion)*
+
+---
+
+## 04️⃣ Functions
+
+### 🔹 Concepts Covered
+- Functions with parameters
+- Return keyword
+- Object-based method calling
+- Method Overloading (Compile-time Polymorphism)
+
+### 🔹 Programs
+- `EvenOdd.java`
+- `PrimeCheck.java`
+- `FactorialFunction.java`
+- `MaxOfTwoFunction.java`
+- `MethodOverloadingDemo.java`
+
+---
+
+## 05️⃣ Inheritance
+
+### 🔹 Types Covered
+- Single Inheritance
+- Multilevel Inheritance
+- Hierarchical Inheritance
+- Hybrid Inheritance (theory note)
+
+### 🔹 Programs
+- `SingleInheritance.java`
+- `MultilevelInheritance.java`
+- `HierarchicalInheritance.java`
+- `HybridInheritanceNote.java`
+
+---
+
+## 06️⃣ Constructors
+
+### 🔹 Concepts
+- Default constructor
+- Parameterized constructor
+- Constructor overloading
+
+### 🔹 Programs
+- `Student.java`
+- `Employee.java`
+
+---
+
+## 07️⃣ `this` Keyword
+
+### 🔹 Concepts
+- Differentiating instance variables and parameters
+- Constructor usage with `this`
+
+### 🔹 Programs
+- `StudentThisDemo.java`
 
 ---
 
 ## ✅ Progress Log
 
-### Day 1 – 20 Dec 2025
-- Max element in array
-- Min element in array
-- Sum of array
-- Even & odd count
+### 🟢 Day 1 – 20 Dec 2025
+- Array basics (max, min, sum, even/odd)
 - Reverse array
-- GitHub repo setup + first commit
+- GitHub repo setup
 
-### Day 2 – 21 Dec 2025
-- Second largest element
-- Second smallest element
+### 🟢 Day 2 – 21 Dec 2025
+- Second largest & smallest
 - Sorted array check
-- Palindrome (case-insensitive)
-- README organization
-- Code pattern understanding
+- Palindrome logic
+- README structuring
+
+### 🟢 Day 3+
+- String logic (palindromes, frequency)
+- Functions with return & parameters
+- Method overloading
+- Inheritance concepts
+- Constructors & `this` keyword
+- For-each loop usage
 
 ---
 
@@ -98,11 +147,11 @@ Used to verify order or structure.
 ---
 
 ## 🎯 Next Goals
-- String logic problems
-- Searching (Linear, Binary)
+- Searching (Linear & Binary)
 - Sorting basics
+- Collections (ArrayList, HashMap)
 - LeetCode array & string problems
-- Daily revision of previous patterns
+- Regular revision of logic patterns
 
 ---
 
@@ -110,4 +159,4 @@ Used to verify order or structure.
 > “Syntax can be learned anytime.  
 > Logic stays only if practiced daily.”
 
-Consistency > Speed.
+Consistency > Speed 🚀
